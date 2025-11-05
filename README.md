@@ -62,7 +62,7 @@ The loan officer has to repeatedly collect documents from the customer if the do
 ### 5.3. Communication Issues
 From the stages of loan approval notification to the disbursal of funds, different notifications occur by human intervention, which may get delayed if there is a delay in communication between the actors involved. Due to this, the lead time of the process can significantly increase. The internal and external quality might degrade.
 
-## 5.4. Dependency Issues
+### 5.4. Dependency Issues
 The loan officer has to get approval for rejection or approval of the loan application from the loan manager, who reviews and approves the same. This increases the labour cost for the organisation as the work is redundant. Moreover, the internal quality decreases with poor conditions of work and may lead to dissatisfaction due to higher dependency. Apart from that, the unnecessary notification flow between the manager and the loan officer takes considerable time, as the loan officer has to wait for the manager's approval to proceed forward, hindering productivity. Overall dependency issues increase cost and lead time and decrease the overall quality.
  
 
@@ -85,7 +85,9 @@ Integrating an automated notification management system into all the bank applic
 
 #### 6.2.1. Performance Indicators
 Time: The average lead time will decrease significantly as customers can get notifications through the application and respond to them promptly. The new system eliminates repetitive and manual tasks, such as notifying the customers about the current loan stage or getting documents signed. 
+
 Cost: As the lead time decreases significantly, the loan officer has more time to work on new loan applications. The productivity will be increased, and the labour cost will decline. 
+
 Quality: Eliminating repetitive and manual tasks will decrease the lead time there by increasing both internal and external quality. Externally, customer satisfaction will increase as they can monitor the loan application status. There will be smooth communication throughout the process for both the customer and loan officer, which in turn increases the overall quality.
 
 
@@ -96,7 +98,9 @@ In the current organisational hierarchy, loan officers must obtain approval for 
 
 #### 6.2.1. Performance Indicators
 Time: The dependency between loan officers and managers often causes delays. The same work is repeated twice as the manager also reviews the application. By allowing loan officers the authority to make decisions, thereby reducing the number of people working on the process, the average lead time will be significantly reduced. 
+
 Cost: As the lead time decreases, the labour cost will also decline. Empowering best practices will have the most significant impact on flexibility.  However, the trade-off would be that the quality of decisions may be reduced, and errors may not be found.
+
 Quality: These best practices will create a smooth flow of activities for the loan officer, resulting in better work conditions and increasing internal quality. Loan officers will feel more empowered, in control, and have a greater sense of belonging in the organisation rather than relying on their managers. Consequently, managers and loan officers can handle more tasks now as they have more time, improving overall flexibility within the organisation. 
 
 
